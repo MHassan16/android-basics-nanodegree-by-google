@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Booking List</string>
+    <string name="hint">Name of the author or book tittle</string>
+    <string name="search">Search</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="NoData">No Data Found</string>
+    <string name="noInternet">No Internet Connection</string>
+</resources>

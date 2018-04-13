@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="Welcome">welcome to your quiz</string>
+    <string name="Question1">question 1</string>
+    <string name="content1">Who was the last player to captain England before David Beckham?</string>
+    <string name="Question2">question 2</string>
+    <string name="content2">Which of these players never captained England senior team ?</string>
+    <string name="answer1">Bobby Charlton</string>
+    <string name="answer1_2">David Seaman</string>
+    <string name="answer1_3">Gordon Banks</string>
+    <string name="Question3">question 3</string>
+    <string name="content3">Who won the Ballon d\'Or in 2016 ?</string>
+    <string name="answer2">Cristiano Ronaldo</string>
+    <string name="answer2_2">Lionel Messi</string>
+    <string name="answer2_3">Neymar da Silva</string>
+    <string name="Question4">question 4</string>
+    <string name="content4">Which of these players never scored a hat-trick for England ?</string>
+    <string name="answer3">Gary Lineker</string>
+    <string name="answer3_2">Paul Scholes</string>
+    <string name="answer3_3">Teddy Sheringham</string>
+    <string name="Question5">question 5</string>
+    <string name="content5">Which of these teams have won the Champions league 2012 ?</string>
+    <string name="answer4">Chelsea FC</string>
+    <string name="answer4_2">Barcelona FC</string>
+    <string name="answer4_3">Bayern Munich FC</string>
+    <string name="Question6">question 6</string>
+    <string name="content6">Who were England\'s three goalkeepers in the 1982 World Cup?</string>
+    <string name="answer5">Ray Clemence</string>
+    <string name="answer5_2">Peter Shilton</string>
+    <string name="answer5_3">Joe Hart</string>
+    <string name="answer5_4">Joe Corrigan</string>
+    <string name="button1">Submit</string>
+    <string name="button2">Reset</string>
+
+
+
+
+
+
+
+</resources>

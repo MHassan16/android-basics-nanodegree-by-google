@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="city">Cairo</string>
+    <string name="city1">Alex</string>
+    <string name="city2">Giza</string>
+    <string name="city3">Luxor</string>
+
+    //Cairo
+    <string name="Tower">Cairo Tower</string>
+    <string name="Toweraddress">Zamalek, Cairo Governorate</string>
+    <string name="TowerDescription">The Cairo Tower is a free-standing concrete tower, Its 187m.</string>
+    <string name="Tahrir">Tahrir Square</string>
+    <string name="Tahriraddress">El-Tahrir Square, Qasr an Nile</string>
+    <string name="TahrirDescription">Tahrir Square, also known as "Martyr Square", is a major public town square.</string>
+    <string name="Palace">Abdeen Palace</string>
+    <string name="Palaceaddress">El-Gomhoreya Square, Rahbet Abdin, Abdeen</string>
+    <string name="PalaceDescription">A historic Cairo palace, and one of the official residences .</string>
+    <string name="Opera">Cairo Opera House</string>
+    <string name="Operaaddress"> Opera Land، EL GEZIRAH، Zamalek</string>
+    <string name="OperaDescription">Part of Cairo National Cultural Center, is the main performing arts venue.</string>
+    //Alex
+    <string name="Citadel">Citadel of Qaitbay</string>
+    <string name="Citadeladdress">As Sayalah Sharq, Qesm Al Gomrok, Alexandria Governorate</string>
+    <string name="CitadelDescription">A defensive fortress located on the Mediterranean sea coast.</string>
+    <string name="MPalace">Montaza Palace</string>
+    <string name="MPalaceaddress">Al Mandarah Bahri, Qism El-Montaza, Alexandria Governorate</string>
+    <string name="MPalaceDescription">A palace, museum and extensive gardens.</string>
+    <string name="Zoo">Alexandria Zoo</string>
+    <string name="Zooaddress">Ezbet Saad, Qism Sidi Gabir, Alexandria Governorate</string>
+    <string name="ZoorDescription">Which allows guests to walk around the zoo and view a selection of animals from around the world.</string>
+
+    //Giza
+    <string name="Sphinx">Great Sphinx</string>
+    <string name="Sphinxaddress">Al Haram, Giza Governorate</string>
+    <string name="SphinxDescription">A limestone statue of a reclining sphinx, a mythical creature with the body of a lion and the head of a human</string>
+    <string name="pyramids">Giza pyramid complex</string>
+    <string name="pyramidsaddress">Al Haram, Giza Governorate</string>
+    <string name="pyramidsDescription">An archaeological site on the Giza Plateau, on the outskirts of Cairo.</string>
+
+    //Luxor
+    <string name="Karnak">Karnak</string>
+    <string name="Karnakaddress"> El-Karnak, Luxor, Luxor Governorate</string>
+    <string name="KarnakDescription">Comprises a vast mix of decayed temples, chapels, pylons, and other buildings.</string>
+    <string name="ValleyofQueens">Valley of the Queens</string>
+    <string name="Valleyaddress"> El-Karnak, Luxor, Luxor Governorate</string>
+    <string name="valleyDescription">A place in Egypt where wives of Pharaohs were buried in ancient times.</string>
+    <string name="Museum">Mummification Museum</string>
+    <string name="Musuemaddress"> Luxor City, Luxor, Luxor Governorate</string>
+    <string name="MusuemDescription">An archaeological museum.It is dedicated to the art of Ancient Egyptian mummification.</string>
+</resources>

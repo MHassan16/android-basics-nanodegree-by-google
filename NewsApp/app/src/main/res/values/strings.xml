@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="news_title">Minister rules out last-…it vote - Politics live</string>
+    <string name="type">Type</string>
+    <string name="news_type">liveblog</string>
+    <string name="date">Date</string>
+    <string name="news_date">2017-12-13T16:35:52Z</string>
+    <string name="news_section">Politics</string>
+    <string name="no_data">No news found.</string>
+    <string name="author">firstName</string>
+    <string name="no_internet_connection">No internet connection.</string>
+
+
+</resources>

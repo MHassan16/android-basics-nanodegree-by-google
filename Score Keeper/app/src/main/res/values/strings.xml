@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">American Football Score App</string>
+    <string name="teamA">Team A</string>
+    <string name="teamB">Team B</string>
+    <string name="scoreAB">0</string>
+    <string name="Touch">+6 POINTS</string>
+    <string name="goal">+3 POINTS</string>
+    <string name="Extra">+2 POINTS</string>
+    <string name="Try">+1 POINTS</string>
+    <string name="reset">RESET</string>
+</resources>

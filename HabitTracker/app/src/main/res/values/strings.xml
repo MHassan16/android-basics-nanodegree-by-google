@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HabitTracker</string>
+    <string name="insert_dummy_data">Insert Data</string>
+</resources>
