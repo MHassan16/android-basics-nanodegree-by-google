@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+    <string name="Player">Player</string>
+    <string name="playList">PlayLists</string>
+    <string name="Settings">Settings</string>
+    <string name="Payment">Payment</string>
+    <string name="playListDescription"> Playlists. Here the user can see, edit and choose to play
+a custom playlist.</string>
+    <string name="playerDescription">Media player. The user can listen to his song from the Music Player.</string>
+    <string name="settingsDescription">Settings screen.The user can make configuration of the application.</string>
+    <string name="menuDescription">Menu of the app. Here the user can choose what he needs from the menu.</string>
+    <string name="Folk">Folk Music</string>
+    <string name="jazz">Jazz Music</string>
+    <string name="classic">Classical Music</string>
+    <string name="pop">Pop Music</string>
+    <string name="Rating">Rate Us on GooglePlay</string>
+    <string name="support">Support</string>
+    <string name="Friend">Tell A Friend</string>
+    <string name="Remove">Remove All Ads</string>
+    <string name="song1">Thrift Shop</string>
+    <string name="song2">Shape Of You</string>
+    <string name="song3">Thunder</string>
+    <string name="song4">Helium</string>
+    <string name="BuyNow">Buy Now</string>
+    <string name="paymentDescription">Payment Screen.This made for the user , so he can buy songs through Android Payment API</string>
+
+
+</resources>
