@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BREW &amp; CHEW</string>
+    <string name="restaurant_image">restaurant image</string>
+    <string name="restaurant_name">BREW &amp; CHEW restaurant </string>
+    <string name="address">The Courtyard,Palestine Street</string>
+    <string name="phone">02011123531</string>
+    <string name="description">Desserts Choclate</string>
+    <string name="Availability">Open From 10:00AM to 2:00AM</string>
+    <string name="Cover">Inernational ,Desserts</string>
+    <string name="About">We serve a new type of desserts ,It is Nitrogen Desserts</string>
+    <string name="address_icon">address icon</string>
+    <string name="phone_icon">phone icon</string>
+    <string name="desc_icon">description icon</string>
+    <string name="Available_icon">open icon</string>
+    <string name="Cover_icon">cover icon</string>
+</resources>
