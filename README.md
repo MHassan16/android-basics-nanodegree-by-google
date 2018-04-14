@@ -18,6 +18,12 @@ The app tracks scores for American football games.
 The app implements a 6-questions about Football.
 
 
+## Project : Musical Structure App
+### Architect the user experience and technical design of an app to play music for a user.
+
+The app implements the structure of user's personal library.
+
+
 ## Project : Report Card
 ### Create a custom Java class to model the information in a student report card.
 
